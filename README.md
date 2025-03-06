@@ -1,4 +1,4 @@
-## Hi, I'm Abbos - a 19 y/o builder from Uzbekistan.
+## Hi, I'm Abbos - a 19 y.o builder from Uzbekistan.
 
 My philosophy is straightforward: build projects that solve my own problem in the first place. This approach might seem controversial, but I believe it is the only way to do a genuinely great job as a developer.
 
